@@ -1,3 +1,7 @@
+# **To be continued at [isomorpheme/nixfiles](https://github.com/isomorpheme/nixfiles)**
+
+----
+
 Hi there. This is my dotfiles repo. Feel free to nose around and copy stuff, or if you know an awesome plugin or configuration trick, send me a PR.
 
 # What's a "dotfile"?
